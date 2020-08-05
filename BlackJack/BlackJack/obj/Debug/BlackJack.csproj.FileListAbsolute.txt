@@ -1,0 +1,10 @@
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\bin\Debug\Casino.dll
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\bin\Debug\Casino.pdb
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CopyComplete

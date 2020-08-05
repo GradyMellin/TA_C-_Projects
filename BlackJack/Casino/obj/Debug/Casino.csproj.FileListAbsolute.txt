@@ -1,0 +1,6 @@
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\Casino\bin\Debug\Casino.dll
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\Casino\bin\Debug\Casino.pdb
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\Casino\obj\Debug\Casino.dll
+C:\Users\Grady Mellin\Desktop\C#_course\TA_C#_Projects\BlackJack\Casino\obj\Debug\Casino.pdb
