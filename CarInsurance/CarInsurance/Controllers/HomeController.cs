@@ -15,7 +15,7 @@ namespace CarInsurance.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "We are the leading car insurance company for those people who are not using their vehicles do to the Corona Virus Pandemic.";
 
             return View();
         }
